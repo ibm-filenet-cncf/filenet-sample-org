@@ -1,5 +1,7 @@
 # IBM FileNet DevOps
 
-This sample repository defines a preferred structure for a OpenShift Kubernetes deployment of IBM FileNet.
+This sample repository defines a preferred structure for a OpenShift Kubernetes
+deployment of IBM FileNet.
 
-This is a work-in-progress.
+It uses this README.md file together with the [docs folder](./xdocs) and [images
+folder](/xdocs/images/) to include documentation.
